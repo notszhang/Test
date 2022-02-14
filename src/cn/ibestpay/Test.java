@@ -85,5 +85,11 @@ public class Test {
 
 
     }
+
+    public void getNav(Date date){
+
+        Date aa = date;
+        System.out.println(aa);
+    }
 }
 
