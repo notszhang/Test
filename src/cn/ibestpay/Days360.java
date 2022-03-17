@@ -42,6 +42,7 @@ public class Days360 {
     }
 
 
+
     public static String getStartingDate(Date date) {
         SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
         String startDate = sdf.format(date);
